@@ -1,7 +1,7 @@
-# summit
+# Summit
 UNCOMPLETE university project - web development technologies
 
-The website, implemented with Apache Tomcat and MySQL, mantains all the basic functionalities (log in of different types of users, creation of campaigns, tasks) in a nice yet simple interface, but lacks the more advanced functionalities (work statistics, comments, etc.) and documentation. This is because the version provided here was not the final one, that unfortunately went lost in an accident along with my old laptop, some months after i successfully passed the exam. Yes, i should have backed up the last version. I eventually found out that, well, i didn't.
+The website, implemented with Apache Tomcat and MySQL using java servlet on server side and JSP files on front-end side, mantains all the basic functionalities (log in of different types of users, creation of campaigns, tasks) in a nice yet simple interface, but lacks the more advanced functionalities (work statistics, comments, etc.) and documentation. This is because the version provided here was not the final one, that unfortunately went lost in an accident along with my old laptop, some months after i successfully passed the exam. Yes, i should have backed up the last version. I eventually found out that, well, i didn't.
 
 I must admit I do not remember details about the set up of Tomcat or MySQL i used here, and i don't remember exactly which functionalities were already implemented in this version of the code, and which still weren't. In all honesty, I have no reason or motivation to investigate further, as this repository is just a showcase of a university homework, and the website doesn't have a real sense in the world, beside having been a training to comprehend how web applications are developed and how basic crowdsourcing functionalities work.
 
